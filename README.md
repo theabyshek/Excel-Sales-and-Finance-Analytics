@@ -20,9 +20,9 @@ My Excel projects on Sales and Finance Analysis of AtliQ Hardware.
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/theabyshek/Excel-Sales-and-Finance-Analytics/blob/main/PnL%20Statement%20by%20Fiscal%20Year.pdf) & _[Months](https://github.com/theabyshek/Excel-Sales-and-Finance-Analytics/blob/main/PnL%20Statements%20by%20Fiscal%20Months.pdf)
+    **1.** Create Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/theabyshek/Excel-Sales-and-Finance-Analytics/blob/main/PnL%20Statement%20by%20Fiscal%20Year.pdf) & [Months](https://github.com/theabyshek/Excel-Sales-and-Finance-Analytics/blob/main/PnL%20Statements%20by%20Fiscal%20Months.pdf)
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/theabyshek/Excel-Sales-and-Finance-Analytics/blob/main/PnL%20Statements%20by%20Market.pdf)
+   **2.** Create Profit and Loss (P&L) reports by [Markets](https://github.com/theabyshek/Excel-Sales-and-Finance-Analytics/blob/main/PnL%20Statements%20by%20Market.pdf)
 
 - **Purpose of finance analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
