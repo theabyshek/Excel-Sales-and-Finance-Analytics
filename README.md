@@ -7,7 +7,7 @@ My Excel projects on Sales and Finance Analysis of AtliQ Hardware.
 
     **1.** Create a [customer performance report](https://github.com/theabyshek/Excel-Sales-and-Finance-Analytics/blob/main/Customer%20Performace%20Report.pdf) 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets]
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/theabyshek/Excel-Sales-and-Finance-Analytics/blob/main/Market%20Perfomance%20vs%20Target%20Report.pdf)
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
