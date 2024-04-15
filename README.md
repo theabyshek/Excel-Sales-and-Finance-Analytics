@@ -5,7 +5,7 @@ My Excel projects on Sales and Finance Analysis of AtliQ Hardware.
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+    **1.** Create a _[customer performance report](https://github.com/theabyshek/Excel-Sales-and-Finance-Analytics/blob/main/Customer%20Performace%20Report.pdf) _ 
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
 
